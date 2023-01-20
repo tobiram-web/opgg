@@ -1,0 +1,56 @@
+body {
+  margin: 0px;
+  height: 100vh;
+  font-family: sans-serif;
+  background: linear-gradient(to top left, black, gray, white);
+  background-size: 200% 200%;
+  background-position: 0 0, 100%px 100%;
+}
+
+.infobar {
+  background-color: black;
+  border: 1px solid black;
+  color: white;
+}
+
+.title {
+  font-size: 18px;
+  color: white;
+  margin-left: 43%;
+}
+
+.title-text {
+  margin-left: 450px;
+}
+
+.text {
+  margin-left: 130px;
+}
+
+.image-1 {
+  height: 600px;
+  margin-left: 190px;
+  margin-top: 30px;
+  border: 5px solid black;
+  border-radius: 8%;
+}
+
+.image-2 {
+  height: 600px;
+  border: 5px solid black;
+  border-radius: 8%;
+  margin-left: 55px;
+}
+
+.button-text {
+  margin-left: 15px;
+}
+
+.button {
+  text-decoration: none;
+  border: 2px solid black;
+  border-radius: 6px;
+  background-color: rgba(4, 0, 245, 0.5);
+  color: black;
+  padding: 7px 7px;
+}
